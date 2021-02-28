@@ -1,5 +1,9 @@
 # TSUNAMI COFFEE
 
+![Tsunami Coffee Hero Section](/tsunamiHero.png)
+
+You can access the website at [Tsunami Coffee Website](https://gghigi.github.io/tsunami/)
+
 ### Story
 
 Throughout this project, you’ll edit the existing Tsunami Coffee website code so that the website appears correctly on varying screen sizes. In addition, you’ll contribute styles that will make this website more visually appealing.
