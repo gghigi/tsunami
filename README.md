@@ -4,6 +4,8 @@
 
 You can access the website at [Tsunami Coffee Website](https://gghigi.github.io/tsunami/)
 
+[![GitHub issues](https://img.shields.io/github/issues/gghigi/tsunami)](https://github.com/gghigi/tsunami/issues) [![GitHub forks](https://img.shields.io/github/forks/gghigi/tsunami)](https://github.com/gghigi/tsunami/network) [![GitHub stars](https://img.shields.io/github/stars/gghigi/tsunami)](https://github.com/gghigi/tsunami/stargazers) [![GitHub license](https://img.shields.io/github/license/gghigi/tsunami)](https://github.com/gghigi/tsunami)
+
 ### Story
 
 Throughout this project, you’ll edit the existing Tsunami Coffee website code so that the website appears correctly on varying screen sizes. In addition, you’ll contribute styles that will make this website more visually appealing.
