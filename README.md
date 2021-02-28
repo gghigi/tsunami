@@ -1,6 +1,6 @@
 # TSUNAMI COFFEE
 
-![Tsunami Coffee Hero Section](/tsunamiHero.png)
+![Tsunami Coffee Hero Section](/resources/images/tsunamiHero.png)
 
 You can access the website at [Tsunami Coffee Website](https://gghigi.github.io/tsunami/)
 
